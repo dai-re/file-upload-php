@@ -1,0 +1,8 @@
+{
+  "name": "phpupload",
+  "version": "1.0.0",
+  "description": "file upload php with taillwind css",
+  "main": "index.php",
+  "author": "dai-re <dairewahandi@gmail.com>",
+  "license": "MIT"
+}
